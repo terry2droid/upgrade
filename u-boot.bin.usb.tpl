@@ -1,1 +1,1 @@
-../../u-boot/fip/u-boot.bin.usb.tpl
+/home/terry/project/vim/nougat/uboot/fip/u-boot.bin.usb.tpl
