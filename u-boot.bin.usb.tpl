@@ -1,1 +1,1 @@
-../../u-boot/fip/u-boot.bin.usb.tpl
+../u-boot-ec7adb5/fip/u-boot.bin.usb.tpl

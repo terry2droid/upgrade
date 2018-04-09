@@ -1,1 +1,1 @@
-../../linux/arch/arm64/boot/dts/kvim.dtb
+../linux-29941550f05282411c00c437b4c18bb5c6319d63/arch/arm64/boot/dts/amlogic/gxm_kvim2.dtb
